@@ -1,2 +1,2 @@
 # Mini_Projects
-Short Projects
+Small Projects, Just for Fun ;)
