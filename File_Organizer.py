@@ -81,6 +81,4 @@ for doc in docs:
 
     print(f"Moved file {doc} to {new_doc_path}")
 
-print(f"Renamed {moved} of {len(docs)} files.")
-
-print(__file__)
+print(f"Moved {moved} out of {len(docs)} files.")
