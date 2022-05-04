@@ -1,5 +1,5 @@
-'''Suppose you have folder with mutiple extentions and 
-you want them to move to a folder as per its extention e.g. like all pdf files in a 'pdf' folder 
+'''Suppose you have multiple files with mutiple extentions in a folder and 
+you want all of those files to be moved in folders as per its extention e.g. like all pdf files in a 'pdf' folder 
 and .jpg in 'jpg' folder 
 
 Then this code is for you, you can just run this file in the directory you want to sort'''
